@@ -1,0 +1,17 @@
+{
+	"id": "MoreSeaFriends",
+	"name": "More Sea Friends",
+	"author": ["Hwang2760"],
+	"description": "Add some marine Pokermon Jokers.",
+	"prefix": "sea_poke",
+	"main_file": "main.lua",
+	"priority": 20,
+	"badge_colour": "1da2d8",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.0.0~BETA-0614a)",
+		"Lovely (>=0.6)",
+		"Pokermon (>=3.0.0)"
+	]
+}
